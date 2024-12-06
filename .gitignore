@@ -1,0 +1,28 @@
+*.user
+*.suo
+*.vs/
+
+Properties/
+Зависимости/
+Connected Services/
+
+*.cache
+
+# Файлы настроек JetBrains Rider
+.idea/
+
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Логи
+*.log
+
+# Игнорировать папку с выходным файлом
+*.exe
+*.dll
+
+# Другие временные файлы и кеши
+*.pdb
+*.mdb
+*.sdf
