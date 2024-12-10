@@ -10,6 +10,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 COPY ["BookingHotels/BookingHotels.csproj", "BookingHotels/"]
+RUN dotnet nuget locals all --clear && dotnet restore "BookingHotels/BookingHotels.csproj"
 RUN dotnet restore "BookingHotels/BookingHotels.csproj"
 
 COPY . .
