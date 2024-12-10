@@ -142,3 +142,4 @@ C:\Users\Нурмухаммед\source\repos\BookingHotels\BookingHotels\obj\Deb
 C:\Users\Нурмухаммед\source\repos\BookingHotels\BookingHotels\obj\Debug\net8.0\BookingHotels.pdb
 C:\Users\Нурмухаммед\source\repos\BookingHotels\BookingHotels\obj\Debug\net8.0\BookingHotels.genruntimeconfig.cache
 C:\Users\Нурмухаммед\source\repos\BookingHotels\BookingHotels\obj\Debug\net8.0\ref\BookingHotels.dll
+C:\Users\Нурмухаммед\source\repos\BookingHotels\BookingHotels\obj\Debug\net8.0\BookingHotels.sourcelink.json
