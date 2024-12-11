@@ -12,3 +12,4 @@ C:\Users\Нурмухаммед\source\repos\BookingHotels\DataAccess\obj\Debug\
 C:\Users\Нурмухаммед\source\repos\BookingHotels\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\Нурмухаммед\source\repos\BookingHotels\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 C:\Users\Нурмухаммед\source\repos\BookingHotels\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\Нурмухаммед\source\repos\BookingHotels\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json

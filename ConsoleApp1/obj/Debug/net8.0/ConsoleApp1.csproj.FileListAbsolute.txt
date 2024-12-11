@@ -128,3 +128,4 @@ C:\Users\Нурмухаммед\source\repos\BookingHotels\ConsoleApp1\obj\Debug
 C:\Users\Нурмухаммед\source\repos\BookingHotels\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\Нурмухаммед\source\repos\BookingHotels\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Нурмухаммед\source\repos\BookingHotels\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Нурмухаммед\source\repos\BookingHotels\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

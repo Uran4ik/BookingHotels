@@ -30,12 +30,16 @@ namespace BookingHotels
             }
 
 
-                // Configure the HTTP request pipeline.
-                if (app.Environment.IsDevelopment())
-                {
-                    app.UseSwagger();
-                    app.UseSwaggerUI();
-                }
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+
+            app.UseCors(builder => builder.WithOrigins(new[] { "https://localhost:7051", })
+                            .AllowAnyHeader()
+                            .AllowAnyMethod());
 
             app.UseHttpsRedirection();
 
