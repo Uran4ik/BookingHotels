@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingHotels", "BookingHotels\BookingHotels.csproj", "{4B68C439-70F7-4917-AF85-7F5B55775037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingHotels", "BookingHotels\BookingHotels.csproj", "{4B68C439-70F7-4917-AF85-7F5B55775037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E0DEF8B3-FEC2-42CE-AC4E-10BE466850D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E0DEF8B3-FEC2-42CE-AC4E-10BE466850D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{21DD6ACE-7649-44C6-B0F9-7DD0420FE9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{21DD6ACE-7649-44C6-B0F9-7DD0420FE9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClient", "BlazorClient\BlazorClient.csproj", "{3CF0248C-B01B-4983-86AE-C7D77F1BA76E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{21DD6ACE-7649-44C6-B0F9-7DD0420FE9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21DD6ACE-7649-44C6-B0F9-7DD0420FE9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21DD6ACE-7649-44C6-B0F9-7DD0420FE9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF0248C-B01B-4983-86AE-C7D77F1BA76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF0248C-B01B-4983-86AE-C7D77F1BA76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF0248C-B01B-4983-86AE-C7D77F1BA76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF0248C-B01B-4983-86AE-C7D77F1BA76E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

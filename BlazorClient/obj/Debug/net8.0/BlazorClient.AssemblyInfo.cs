@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BookingHotels")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BlazorClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717ce4e60df677167842655b0997d0e271e5f767")]
-[assembly: System.Reflection.AssemblyProductAttribute("BookingHotels")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BookingHotels")]
+[assembly: System.Reflection.AssemblyProductAttribute("BlazorClient")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BlazorClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
