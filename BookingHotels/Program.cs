@@ -39,6 +39,7 @@ namespace BookingHotels
 
             app.UseCors(builder => builder.WithOrigins(new[] { "https://localhost:7051", })
                             .AllowAnyHeader() 
+                            .AllowAnyOrigin()
                             .AllowAnyMethod());
 
             app.UseHttpsRedirection();
